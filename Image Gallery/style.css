@@ -2,7 +2,7 @@ body {
 	margin: 0px;
 }
 
- /* Container holding all the images */
+ /* Container holding all the images + flex box */
 
 .container {
 	display: flex;
